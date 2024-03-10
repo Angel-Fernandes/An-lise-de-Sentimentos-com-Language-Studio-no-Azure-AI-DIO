@@ -1,0 +1,3432 @@
+[
+    {
+        "Id": "a6ac34d23f6a473982b6a32094fb6559",
+        "RecognitionStatus": 0,
+        "Offset": 700000,
+        "Duration": 131200000,
+        "Channel": 0,
+        "DisplayText": "So we're on this group text all The Avengers, right? And then we're like, I wanna be on this. I just wanna see a joke. It's The Avengers. Run a group text. Yes. So dope, Dude. That's the secret of the next movie. They all text each other. Yeah, Yeah, yeah.",
+        "NBest": [
+            {
+                "Confidence": 0.7544339,
+                "Lexical": "so we're on this group text all the avengers right and then we're like i wanna be on this i just wanna see a joke it's the avengers run a group text yes so dope dude that's the secret of the next movie they all text each other yeah yeah yeah",
+                "ITN": "so we're on this group text all the avengers right and then we're like i wanna be on this i just wanna see a joke it's the avengers run a group text yes so dope dude that's the secret of the next movie they all text each other yeah yeah yeah",
+                "MaskedITN": "so we're on this group text all the avengers right and then we're like i wanna be on this i just wanna see a joke it's the avengers run a group text yes so dope dude that's the secret of the next movie they all text each other yeah yeah yeah",
+                "Display": "So we're on this group text all The Avengers, right? And then we're like, I wanna be on this. I just wanna see a joke. It's The Avengers. Run a group text. Yes. So dope, Dude. That's the secret of the next movie. They all text each other. Yeah, Yeah, yeah.",
+                "Words": [
+                    {
+                        "Word": "so",
+                        "Offset": 700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "we're",
+                        "Offset": 2700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 4700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 5500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "group",
+                        "Offset": 7900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 10300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "all",
+                        "Offset": 14300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 16300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "avengers",
+                        "Offset": 17500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 20700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 26300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "then",
+                        "Offset": 28700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "we're",
+                        "Offset": 30300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 32300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 33900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "wanna",
+                        "Offset": 41900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "be",
+                        "Offset": 46700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 48300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 49100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 51100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 51500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "wanna",
+                        "Offset": 53100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "see",
+                        "Offset": 55100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 57900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "joke",
+                        "Offset": 58300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "it's",
+                        "Offset": 64700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 67500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "avengers",
+                        "Offset": 68700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "run",
+                        "Offset": 72700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 74700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "group",
+                        "Offset": 75100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 77900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "yes",
+                        "Offset": 81100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "so",
+                        "Offset": 83500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "dope",
+                        "Offset": 85900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "dude",
+                        "Offset": 88300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "that's",
+                        "Offset": 89900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 93500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "secret",
+                        "Offset": 94700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 97500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 98300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "next",
+                        "Offset": 99500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "movie",
+                        "Offset": 102300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "they",
+                        "Offset": 104700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "all",
+                        "Offset": 107100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 117500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "each",
+                        "Offset": 121100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "other",
+                        "Offset": 122700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 124700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 127900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 129900000,
+                        "Duration": 2000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7425615,
+                "Lexical": "so we're on this group text all the avengers right and then we're like i wanna be on this i just wanna see a joke it's the avengers are on a group text yes so dope dude that's the secret of the next movie they all text each other yeah yeah yeah",
+                "ITN": "so we're on this group text all the avengers right and then we're like i wanna be on this i just wanna see a joke it's the avengers are on a group text yes so dope dude that's the secret of the next movie they all text each other yeah yeah yeah",
+                "MaskedITN": "so we're on this group text all the avengers right and then we're like i wanna be on this i just wanna see a joke it's the avengers are on a group text yes so dope dude that's the secret of the next movie they all text each other yeah yeah yeah",
+                "Display": "so we're on this group text all the avengers right and then we're like i wanna be on this i just wanna see a joke it's the avengers are on a group text yes so dope dude that's the secret of the next movie they all text each other yeah yeah yeah",
+                "Words": [
+                    {
+                        "Word": "so",
+                        "Offset": 700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "we're",
+                        "Offset": 2700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 4700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 5500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "group",
+                        "Offset": 7900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 10300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "all",
+                        "Offset": 14300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 16300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "avengers",
+                        "Offset": 17500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 20700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 26300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "then",
+                        "Offset": 28700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "we're",
+                        "Offset": 30300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 32300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 33900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "wanna",
+                        "Offset": 41900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "be",
+                        "Offset": 46700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 48300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 49100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 51100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 51500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "wanna",
+                        "Offset": 53100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "see",
+                        "Offset": 55100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 57900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "joke",
+                        "Offset": 58300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "it's",
+                        "Offset": 64700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 67500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "avengers",
+                        "Offset": 68700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "are",
+                        "Offset": 72700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 73900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 74700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "group",
+                        "Offset": 75100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 77900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "yes",
+                        "Offset": 81100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "so",
+                        "Offset": 83500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "dope",
+                        "Offset": 85900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "dude",
+                        "Offset": 88300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "that's",
+                        "Offset": 89900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 93500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "secret",
+                        "Offset": 94700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 97500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 98300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "next",
+                        "Offset": 99500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "movie",
+                        "Offset": 102300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "they",
+                        "Offset": 104700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "all",
+                        "Offset": 107100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 117500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "each",
+                        "Offset": 121100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "other",
+                        "Offset": 122700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 124700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 127900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 129900000,
+                        "Duration": 2000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7381277,
+                "Lexical": "so we're on this group text all the avengers right and then we're like i wanna be on this i just wanna see a joke it's the avengers run a group text yes so dope dude that's the secret of the next movie they all you text each other yeah yeah yeah",
+                "ITN": "so we're on this group text all the avengers right and then we're like i wanna be on this i just wanna see a joke it's the avengers run a group text yes so dope dude that's the secret of the next movie they all you text each other yeah yeah yeah",
+                "MaskedITN": "so we're on this group text all the avengers right and then we're like i wanna be on this i just wanna see a joke it's the avengers run a group text yes so dope dude that's the secret of the next movie they all you text each other yeah yeah yeah",
+                "Display": "so we're on this group text all the avengers right and then we're like i wanna be on this i just wanna see a joke it's the avengers run a group text yes so dope dude that's the secret of the next movie they all you text each other yeah yeah yeah",
+                "Words": [
+                    {
+                        "Word": "so",
+                        "Offset": 700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "we're",
+                        "Offset": 2700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 4700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 5500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "group",
+                        "Offset": 7900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 10300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "all",
+                        "Offset": 14300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 16300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "avengers",
+                        "Offset": 17500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 20700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 26300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "then",
+                        "Offset": 28700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "we're",
+                        "Offset": 30300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 32300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 33900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "wanna",
+                        "Offset": 41900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "be",
+                        "Offset": 46700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 48300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 49100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 51100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 51500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "wanna",
+                        "Offset": 53100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "see",
+                        "Offset": 55100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 57900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "joke",
+                        "Offset": 58300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "it's",
+                        "Offset": 64700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 67500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "avengers",
+                        "Offset": 68700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "run",
+                        "Offset": 72700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 74700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "group",
+                        "Offset": 75100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 77900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "yes",
+                        "Offset": 81100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "so",
+                        "Offset": 83500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "dope",
+                        "Offset": 85900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "dude",
+                        "Offset": 88300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "that's",
+                        "Offset": 89900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 93500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "secret",
+                        "Offset": 94700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 97500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 98300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "next",
+                        "Offset": 99500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "movie",
+                        "Offset": 102300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "they",
+                        "Offset": 104300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "all",
+                        "Offset": 105900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 107100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 117500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "each",
+                        "Offset": 121100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "other",
+                        "Offset": 122700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 124700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 127900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 129900000,
+                        "Duration": 2000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7267871,
+                "Lexical": "so we're on this group text all the avengers right and then we're like i wanna be on this i just wanna see a joke it's the avengers are on a group text yes so dope dude that's the secret of the next movie they all you text each other yeah yeah yeah",
+                "ITN": "so we're on this group text all the avengers right and then we're like i wanna be on this i just wanna see a joke it's the avengers are on a group text yes so dope dude that's the secret of the next movie they all you text each other yeah yeah yeah",
+                "MaskedITN": "so we're on this group text all the avengers right and then we're like i wanna be on this i just wanna see a joke it's the avengers are on a group text yes so dope dude that's the secret of the next movie they all you text each other yeah yeah yeah",
+                "Display": "so we're on this group text all the avengers right and then we're like i wanna be on this i just wanna see a joke it's the avengers are on a group text yes so dope dude that's the secret of the next movie they all you text each other yeah yeah yeah",
+                "Words": [
+                    {
+                        "Word": "so",
+                        "Offset": 700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "we're",
+                        "Offset": 2700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 4700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 5500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "group",
+                        "Offset": 7900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 10300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "all",
+                        "Offset": 14300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 16300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "avengers",
+                        "Offset": 17500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 20700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 26300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "then",
+                        "Offset": 28700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "we're",
+                        "Offset": 30300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 32300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 33900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "wanna",
+                        "Offset": 41900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "be",
+                        "Offset": 46700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 48300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 49100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 51100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 51500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "wanna",
+                        "Offset": 53100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "see",
+                        "Offset": 55100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 57900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "joke",
+                        "Offset": 58300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "it's",
+                        "Offset": 64700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 67500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "avengers",
+                        "Offset": 68700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "are",
+                        "Offset": 72700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 73900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 74700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "group",
+                        "Offset": 75100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 77900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "yes",
+                        "Offset": 81100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "so",
+                        "Offset": 83500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "dope",
+                        "Offset": 85900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "dude",
+                        "Offset": 88300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "that's",
+                        "Offset": 89900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 93500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "secret",
+                        "Offset": 94700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 97500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 98300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "next",
+                        "Offset": 99500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "movie",
+                        "Offset": 102300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "they",
+                        "Offset": 104300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "all",
+                        "Offset": 105900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 107100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 117500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "each",
+                        "Offset": 121100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "other",
+                        "Offset": 122700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 124700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 127900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 129900000,
+                        "Duration": 2000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7162945,
+                "Lexical": "so we're on this group text all the avengers right and then we're like i want to be on this i just wanna see a joke it's the avengers run a group text yes so dope dude that's the secret of the next movie they all you text each other yeah yeah yeah",
+                "ITN": "so we're on this group text all the avengers right and then we're like i want to be on this i just wanna see a joke it's the avengers run a group text yes so dope dude that's the secret of the next movie they all you text each other yeah yeah yeah",
+                "MaskedITN": "so we're on this group text all the avengers right and then we're like i want to be on this i just wanna see a joke it's the avengers run a group text yes so dope dude that's the secret of the next movie they all you text each other yeah yeah yeah",
+                "Display": "so we're on this group text all the avengers right and then we're like i want to be on this i just wanna see a joke it's the avengers run a group text yes so dope dude that's the secret of the next movie they all you text each other yeah yeah yeah",
+                "Words": [
+                    {
+                        "Word": "so",
+                        "Offset": 700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "we're",
+                        "Offset": 2700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 4700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 5500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "group",
+                        "Offset": 7900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 10300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "all",
+                        "Offset": 14300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 16300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "avengers",
+                        "Offset": 17500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 20700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 26300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "then",
+                        "Offset": 28700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "we're",
+                        "Offset": 30300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 32300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 33900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "want",
+                        "Offset": 41900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 46300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "be",
+                        "Offset": 47100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 48300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 49100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 51100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 51500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "wanna",
+                        "Offset": 53100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "see",
+                        "Offset": 55100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 57900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "joke",
+                        "Offset": 58300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "it's",
+                        "Offset": 64700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 67500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "avengers",
+                        "Offset": 68700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "run",
+                        "Offset": 72700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 74700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "group",
+                        "Offset": 75100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 77900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "yes",
+                        "Offset": 81100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "so",
+                        "Offset": 83500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "dope",
+                        "Offset": 85900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "dude",
+                        "Offset": 88300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "that's",
+                        "Offset": 89900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 93500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "secret",
+                        "Offset": 94700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 97500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 98300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "next",
+                        "Offset": 99500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "movie",
+                        "Offset": 102300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "they",
+                        "Offset": 104300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "all",
+                        "Offset": 105900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 107100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 117500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "each",
+                        "Offset": 121100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "other",
+                        "Offset": 122700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 124700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 127900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 129900000,
+                        "Duration": 2000000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "ef78994a07fa4ec99885500626267fd0",
+        "RecognitionStatus": 0,
+        "Offset": 149200000,
+        "Duration": 174800000,
+        "Channel": 0,
+        "DisplayText": "And you're just giving. So, so, you know, like in Ruffalo, everybody just chiming in on, you know, having a problem with Ruffalo, with this. I'm like, you know, guys, I have Eric Bannon's number. Let me give him a call or, you know, the original Hulk. Yeah, yeah, yeah, of course. Yeah, I'll call you. So if you call Edward Norton, see what he's actually his number, will call him, see if he wants to get in on it.",
+        "NBest": [
+            {
+                "Confidence": 0.7057789,
+                "Lexical": "and you're just giving so so you know like in ruffalo everybody just chiming in on you know having a problem with ruffalo with this i'm like you know guys i have eric bannon 's number let me give him a call or you know the original hulk yeah yeah yeah of course yeah i'll call you so if you call edward norton see what he's actually his number will call him see if he wants to get in on it",
+                "ITN": "and you're just giving so so you know like in ruffalo everybody just chiming in on you know having a problem with ruffalo with this i'm like you know guys i have eric bannon's number let me give him a call or you know the original hulk yeah yeah yeah of course yeah i'll call you so if you call edward norton see what he's actually his number will call him see if he wants to get in on it",
+                "MaskedITN": "and you're just giving so so you know like in ruffalo everybody just chiming in on you know having a problem with ruffalo with this i'm like you know guys i have eric bannon's number let me give him a call or you know the original hulk yeah yeah yeah of course yeah i'll call you so if you call edward norton see what he's actually his number will call him see if he wants to get in on it",
+                "Display": "And you're just giving. So, so, you know, like in Ruffalo, everybody just chiming in on, you know, having a problem with Ruffalo, with this. I'm like, you know, guys, I have Eric Bannon's number. Let me give him a call or, you know, the original Hulk. Yeah, yeah, yeah, of course. Yeah, I'll call you. So if you call Edward Norton, see what he's actually his number, will call him, see if he wants to get in on it.",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 149200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you're",
+                        "Offset": 150400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 152800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "giving",
+                        "Offset": 154400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "so",
+                        "Offset": 156800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "so",
+                        "Offset": 157600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 158400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 159600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 161200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 163200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "ruffalo",
+                        "Offset": 164000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "everybody",
+                        "Offset": 167200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 170800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "chiming",
+                        "Offset": 172400000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 177200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 178800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 179600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 180800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "having",
+                        "Offset": 185200000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 188000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "problem",
+                        "Offset": 188400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 191200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "ruffalo",
+                        "Offset": 192800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 195600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 197200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 198800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 200000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 201600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 202800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "guys",
+                        "Offset": 204400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 206000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 206400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "eric",
+                        "Offset": 220800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "bannon",
+                        "Offset": 222800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 226000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "number",
+                        "Offset": 226400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "let",
+                        "Offset": 230400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 231600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "give",
+                        "Offset": 232400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 234400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 235600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "call",
+                        "Offset": 236000000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "or",
+                        "Offset": 241600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 247600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 248800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 250400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "original",
+                        "Offset": 251600000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "hulk",
+                        "Offset": 255200000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 258800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 263200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 265200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 268400000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "course",
+                        "Offset": 270400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 272800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i'll",
+                        "Offset": 274400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "call",
+                        "Offset": 276000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 277600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "so",
+                        "Offset": 280400000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "if",
+                        "Offset": 283600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 284400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "call",
+                        "Offset": 285600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "edward",
+                        "Offset": 287600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "norton",
+                        "Offset": 290000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "see",
+                        "Offset": 293200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "what",
+                        "Offset": 295200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "he's",
+                        "Offset": 296800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "actually",
+                        "Offset": 298800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "his",
+                        "Offset": 303200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "number",
+                        "Offset": 305200000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "will",
+                        "Offset": 308000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "call",
+                        "Offset": 309600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 311600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "see",
+                        "Offset": 312800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "if",
+                        "Offset": 314000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "he",
+                        "Offset": 314800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "wants",
+                        "Offset": 315600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 317600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "get",
+                        "Offset": 318400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 319600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 321200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 322400000,
+                        "Duration": 1600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7108889,
+                "Lexical": "and you're just giving so so you know like in ruffalo everybody just chiming in on you know having a problem with ruffalo with this i'm like you know guys i have eric bannon 's number let me give him a call or you know the original hulk yeah yeah yeah of course yeah i'll call you so if i call edward norton see what he's actually his number will call him see if he wants to get in on it",
+                "ITN": "and you're just giving so so you know like in ruffalo everybody just chiming in on you know having a problem with ruffalo with this i'm like you know guys i have eric bannon 's number let me give him a call or you know the original hulk yeah yeah yeah of course yeah i'll call you so if i call edward norton see what he's actually his number will call him see if he wants to get in on it",
+                "MaskedITN": "and you're just giving so so you know like in ruffalo everybody just chiming in on you know having a problem with ruffalo with this i'm like you know guys i have eric bannon 's number let me give him a call or you know the original hulk yeah yeah yeah of course yeah i'll call you so if i call edward norton see what he's actually his number will call him see if he wants to get in on it",
+                "Display": "and you're just giving so so you know like in ruffalo everybody just chiming in on you know having a problem with ruffalo with this i'm like you know guys i have eric bannon 's number let me give him a call or you know the original hulk yeah yeah yeah of course yeah i'll call you so if i call edward norton see what he's actually his number will call him see if he wants to get in on it",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 149200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you're",
+                        "Offset": 150400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 152800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "giving",
+                        "Offset": 154400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "so",
+                        "Offset": 156800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "so",
+                        "Offset": 157600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 158400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 159600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 161200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 163200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "ruffalo",
+                        "Offset": 164000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "everybody",
+                        "Offset": 167200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 170800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "chiming",
+                        "Offset": 172400000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 177200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 178800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 179600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 180800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "having",
+                        "Offset": 185200000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 188000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "problem",
+                        "Offset": 188400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 191200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "ruffalo",
+                        "Offset": 192800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 195600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 197200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 198800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 200000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 201600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 202800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "guys",
+                        "Offset": 204400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 206000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 206400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "eric",
+                        "Offset": 220800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "bannon",
+                        "Offset": 222800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 226000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "number",
+                        "Offset": 226400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "let",
+                        "Offset": 230400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 231600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "give",
+                        "Offset": 232400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 234400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 235600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "call",
+                        "Offset": 236000000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "or",
+                        "Offset": 241600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 247600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 248800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 250400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "original",
+                        "Offset": 251600000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "hulk",
+                        "Offset": 255200000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 258800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 263200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 265200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 268400000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "course",
+                        "Offset": 270400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 272800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i'll",
+                        "Offset": 274400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "call",
+                        "Offset": 276000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 277600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "so",
+                        "Offset": 280400000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "if",
+                        "Offset": 284000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 284800000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "call",
+                        "Offset": 285600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "edward",
+                        "Offset": 287600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "norton",
+                        "Offset": 290000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "see",
+                        "Offset": 293200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "what",
+                        "Offset": 295200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "he's",
+                        "Offset": 296800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "actually",
+                        "Offset": 298800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "his",
+                        "Offset": 303200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "number",
+                        "Offset": 305200000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "will",
+                        "Offset": 308000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "call",
+                        "Offset": 309600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 311600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "see",
+                        "Offset": 312800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "if",
+                        "Offset": 314000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "he",
+                        "Offset": 314800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "wants",
+                        "Offset": 315600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 317600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "get",
+                        "Offset": 318400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 319600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 321200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 322400000,
+                        "Duration": 1600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.71547496,
+                "Lexical": "and you're just giving so so you know like ruffalo everybody just chiming in on you know having a problem with ruffalo with this i'm like you know guys i have eric bannon 's number let me give him a call or you know the original hulk yeah yeah yeah of course yeah i'll call you so if i call edward norton see what he's actually his number will call him see if he wants to get in on it",
+                "ITN": "and you're just giving so so you know like ruffalo everybody just chiming in on you know having a problem with ruffalo with this i'm like you know guys i have eric bannon 's number let me give him a call or you know the original hulk yeah yeah yeah of course yeah i'll call you so if i call edward norton see what he's actually his number will call him see if he wants to get in on it",
+                "MaskedITN": "and you're just giving so so you know like ruffalo everybody just chiming in on you know having a problem with ruffalo with this i'm like you know guys i have eric bannon 's number let me give him a call or you know the original hulk yeah yeah yeah of course yeah i'll call you so if i call edward norton see what he's actually his number will call him see if he wants to get in on it",
+                "Display": "and you're just giving so so you know like ruffalo everybody just chiming in on you know having a problem with ruffalo with this i'm like you know guys i have eric bannon 's number let me give him a call or you know the original hulk yeah yeah yeah of course yeah i'll call you so if i call edward norton see what he's actually his number will call him see if he wants to get in on it",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 149200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you're",
+                        "Offset": 150400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 152800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "giving",
+                        "Offset": 154400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "so",
+                        "Offset": 156800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "so",
+                        "Offset": 157600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 158400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 159600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 161200000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ruffalo",
+                        "Offset": 164000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "everybody",
+                        "Offset": 167200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 170800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "chiming",
+                        "Offset": 172400000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 177200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 178800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 179600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 180800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "having",
+                        "Offset": 185200000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 188000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "problem",
+                        "Offset": 188400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 191200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "ruffalo",
+                        "Offset": 192800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 195600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 197200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 198800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 200000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 201600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 202800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "guys",
+                        "Offset": 204400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 206000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 206400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "eric",
+                        "Offset": 220800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "bannon",
+                        "Offset": 222800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 226000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "number",
+                        "Offset": 226400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "let",
+                        "Offset": 230400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 231600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "give",
+                        "Offset": 232400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 234400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 235600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "call",
+                        "Offset": 236000000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "or",
+                        "Offset": 241600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 247600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 248800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 250400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "original",
+                        "Offset": 251600000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "hulk",
+                        "Offset": 255200000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 258800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 263200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 265200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 268400000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "course",
+                        "Offset": 270400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 272800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i'll",
+                        "Offset": 274400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "call",
+                        "Offset": 276000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 277600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "so",
+                        "Offset": 280400000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "if",
+                        "Offset": 284000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 284800000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "call",
+                        "Offset": 285600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "edward",
+                        "Offset": 287600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "norton",
+                        "Offset": 290000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "see",
+                        "Offset": 293200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "what",
+                        "Offset": 295200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "he's",
+                        "Offset": 296800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "actually",
+                        "Offset": 298800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "his",
+                        "Offset": 303200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "number",
+                        "Offset": 305200000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "will",
+                        "Offset": 308000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "call",
+                        "Offset": 309600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 311600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "see",
+                        "Offset": 312800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "if",
+                        "Offset": 314000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "he",
+                        "Offset": 314800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "wants",
+                        "Offset": 315600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 317600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "get",
+                        "Offset": 318400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 319600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 321200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 322400000,
+                        "Duration": 1600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7109901,
+                "Lexical": "and you're just giving so so you know like in ruffalo everybody just chiming in on you know having a problem with ruffalo with this i'm like you know guys i have eric bannon 's number let me give him a call or you know the original hulk yeah yeah yeah of course yeah i'll call you so if i call edward norton see what he's actually his number we'll call him see if he wants to get in on it",
+                "ITN": "and you're just giving so so you know like in ruffalo everybody just chiming in on you know having a problem with ruffalo with this i'm like you know guys i have eric bannon 's number let me give him a call or you know the original hulk yeah yeah yeah of course yeah i'll call you so if i call edward norton see what he's actually his number we'll call him see if he wants to get in on it",
+                "MaskedITN": "and you're just giving so so you know like in ruffalo everybody just chiming in on you know having a problem with ruffalo with this i'm like you know guys i have eric bannon 's number let me give him a call or you know the original hulk yeah yeah yeah of course yeah i'll call you so if i call edward norton see what he's actually his number we'll call him see if he wants to get in on it",
+                "Display": "and you're just giving so so you know like in ruffalo everybody just chiming in on you know having a problem with ruffalo with this i'm like you know guys i have eric bannon 's number let me give him a call or you know the original hulk yeah yeah yeah of course yeah i'll call you so if i call edward norton see what he's actually his number we'll call him see if he wants to get in on it",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 149200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you're",
+                        "Offset": 150400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 152800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "giving",
+                        "Offset": 154400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "so",
+                        "Offset": 156800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "so",
+                        "Offset": 157600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 158400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 159600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 161200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 163200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "ruffalo",
+                        "Offset": 164000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "everybody",
+                        "Offset": 167200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 170800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "chiming",
+                        "Offset": 172400000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 177200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 178800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 179600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 180800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "having",
+                        "Offset": 185200000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 188000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "problem",
+                        "Offset": 188400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 191200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "ruffalo",
+                        "Offset": 192800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 195600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 197200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 198800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 200000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 201600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 202800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "guys",
+                        "Offset": 204400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 206000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 206400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "eric",
+                        "Offset": 220800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "bannon",
+                        "Offset": 222800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 226000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "number",
+                        "Offset": 226400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "let",
+                        "Offset": 230400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 231600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "give",
+                        "Offset": 232400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 234400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 235600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "call",
+                        "Offset": 236000000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "or",
+                        "Offset": 241600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 247600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 248800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 250400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "original",
+                        "Offset": 251600000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "hulk",
+                        "Offset": 255200000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 258800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 263200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 265200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 268400000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "course",
+                        "Offset": 270400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 272800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i'll",
+                        "Offset": 274400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "call",
+                        "Offset": 276000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 277600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "so",
+                        "Offset": 280400000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "if",
+                        "Offset": 284000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 284800000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "call",
+                        "Offset": 285600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "edward",
+                        "Offset": 287600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "norton",
+                        "Offset": 290000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "see",
+                        "Offset": 293200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "what",
+                        "Offset": 295200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "he's",
+                        "Offset": 296800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "actually",
+                        "Offset": 298800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "his",
+                        "Offset": 303200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "number",
+                        "Offset": 305200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "we'll",
+                        "Offset": 307600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "call",
+                        "Offset": 309600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 311600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "see",
+                        "Offset": 312800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "if",
+                        "Offset": 314000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "he",
+                        "Offset": 314800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "wants",
+                        "Offset": 315600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 317600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "get",
+                        "Offset": 318400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 319600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 321200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 322400000,
+                        "Duration": 1600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7152624,
+                "Lexical": "and you're just so so you know like in ruffalo everybody just chiming in on you know having a problem with ruffalo with this i'm like you know guys i have eric bannon 's number let me give him a call or you know the original hulk yeah yeah yeah of course yeah i'll call you so if i call edward norton see what he's actually his number will call him see if he wants to get in on it",
+                "ITN": "and you're just so so you know like in ruffalo everybody just chiming in on you know having a problem with ruffalo with this i'm like you know guys i have eric bannon 's number let me give him a call or you know the original hulk yeah yeah yeah of course yeah i'll call you so if i call edward norton see what he's actually his number will call him see if he wants to get in on it",
+                "MaskedITN": "and you're just so so you know like in ruffalo everybody just chiming in on you know having a problem with ruffalo with this i'm like you know guys i have eric bannon 's number let me give him a call or you know the original hulk yeah yeah yeah of course yeah i'll call you so if i call edward norton see what he's actually his number will call him see if he wants to get in on it",
+                "Display": "and you're just so so you know like in ruffalo everybody just chiming in on you know having a problem with ruffalo with this i'm like you know guys i have eric bannon 's number let me give him a call or you know the original hulk yeah yeah yeah of course yeah i'll call you so if i call edward norton see what he's actually his number will call him see if he wants to get in on it",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 149200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you're",
+                        "Offset": 150400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 152800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "so",
+                        "Offset": 154400000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "so",
+                        "Offset": 155200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 157600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 158800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 160800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 163200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "ruffalo",
+                        "Offset": 164000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "everybody",
+                        "Offset": 167200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "just",
+                        "Offset": 170800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "chiming",
+                        "Offset": 172400000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 177200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 178800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 179600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 180800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "having",
+                        "Offset": 185200000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 188000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "problem",
+                        "Offset": 188400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 191200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "ruffalo",
+                        "Offset": 192800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 195600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 197200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 198800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 200000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 201600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 202800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "guys",
+                        "Offset": 204400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 206000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 206400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "eric",
+                        "Offset": 220800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "bannon",
+                        "Offset": 222800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 226000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "number",
+                        "Offset": 226400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "let",
+                        "Offset": 230400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 231600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "give",
+                        "Offset": 232400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 234400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 235600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "call",
+                        "Offset": 236000000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "or",
+                        "Offset": 241600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 247600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 248800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 250400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "original",
+                        "Offset": 251600000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "hulk",
+                        "Offset": 255200000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 258800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 263200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 265200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 268400000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "course",
+                        "Offset": 270400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 272800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i'll",
+                        "Offset": 274400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "call",
+                        "Offset": 276000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 277600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "so",
+                        "Offset": 280400000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "if",
+                        "Offset": 284000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 284800000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "call",
+                        "Offset": 285600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "edward",
+                        "Offset": 287600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "norton",
+                        "Offset": 290000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "see",
+                        "Offset": 293200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "what",
+                        "Offset": 295200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "he's",
+                        "Offset": 296800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "actually",
+                        "Offset": 298800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "his",
+                        "Offset": 303200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "number",
+                        "Offset": 305200000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "will",
+                        "Offset": 308000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "call",
+                        "Offset": 309600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 311600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "see",
+                        "Offset": 312800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "if",
+                        "Offset": 314000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "he",
+                        "Offset": 314800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "wants",
+                        "Offset": 315600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 317600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "get",
+                        "Offset": 318400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 319600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 321200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 322400000,
+                        "Duration": 1600000
+                    }
+                ]
+            }
+        ]
+    }
+]
